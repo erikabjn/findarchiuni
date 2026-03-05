@@ -1,0 +1,40 @@
+*{
+    font-family:monospace;
+    background-color: darkgray;
+    font-size: medium;
+}
+
+
+h1{
+    font-size: 50px;
+    color: midnightblue;
+    font-style: italic;
+}
+
+h2{
+    font-size: 30px;
+}
+::placeholder{
+    color:rebeccapurple ;
+}
+
+.img2{
+    position: relative;
+    left:100px;
+    right: 100px;
+}
+
+.button-fixed{
+    width: 150px;
+    background-color: mediumslateblue;
+    padding: 15px;
+    text-decoration: none;
+    color: navy;
+    font-size: 20px;
+    font-weight: bold;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50px;
+}
+
